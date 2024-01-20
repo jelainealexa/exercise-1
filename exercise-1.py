@@ -9,3 +9,10 @@ def calculate(number1, number2):
     else:
         return number1 + number2
 
+# Given 1
+number1 = 20
+number2 = 30
+    
+# Given 2
+number1 = 40
+number2 = 30
