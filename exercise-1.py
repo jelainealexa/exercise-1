@@ -18,3 +18,5 @@ print(f"The result is {result}")
 # Given 2
 number1 = 40
 number2 = 30
+result = calculate(number1, number2)
+print(f"The result is {result}")
