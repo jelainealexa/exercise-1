@@ -1,5 +1,6 @@
 # Calculate the multiplication and sum of two numbers
 
-# Calculate the product of two numbers
-
-# Check if the product is less than 1000
+def calculate(number1, number2):
+    # Calculate the product of two numbers
+    product = number1 * number2
+    # Check if the product is less than 1000
